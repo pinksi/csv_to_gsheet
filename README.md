@@ -1,5 +1,3 @@
-# helper_files
-
 This file helps to export csv files into a google spreadsheet.
 
 Inputs:
